@@ -1,6 +1,6 @@
 # Js_Project_14_FirstGame
 
-First game attempt with js
+First game attempt with js.
 
 
 <p align="center"> 

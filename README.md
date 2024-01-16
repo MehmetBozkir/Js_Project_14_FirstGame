@@ -8,7 +8,7 @@ First game attempt with js.
 <br> 
   
   Features 
-  ------------ 
+  --------------
 
   A working model that combines js, css and html.
 

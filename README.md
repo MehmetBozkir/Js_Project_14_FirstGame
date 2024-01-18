@@ -14,4 +14,4 @@ First game attempt with js.
 
   
   Screen Shot 
-  -------------
+  --------------
